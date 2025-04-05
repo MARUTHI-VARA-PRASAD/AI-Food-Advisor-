@@ -29,5 +29,5 @@ A Streamlit web application that uses **Google Gemini 1.5 Flash** to analyze foo
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/gemini-health-app.git
+git clone (https://github.com/MARUTHI-VARA-PRASAD/AI-Food-Advisor-).git
 cd gemini-health-app
