@@ -26,6 +26,10 @@ A Streamlit web application that uses **Google Gemini 1.5 Flash** to analyze foo
 
 **## 📦 Installation**
 
+https://github.com/user-attachments/assets/535485f1-18ad-4e00-bd9e-541a52aed963
+
+
+
 1. **Clone the repository:**
 
 ```bash
